@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe.config
+C:\Users\User\source\repos\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe
+C:\Users\User\source\repos\Space Invaders\Space Invaders\bin\Release\Space Invaders.pdb
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Form1.resources
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Form2.resources
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Form3.resources
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Form4.resources
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Properties.Resources.resources
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.exe
+C:\Users\User\source\repos\Space Invaders\Space Invaders\obj\Release\Space Invaders.pdb
+C:\Users\User\Downloads\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.exe
+C:\Users\User\Downloads\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.pdb
